@@ -46,6 +46,4 @@ These are essential diagnostic steps for identifying local vs. network-wide issu
 
 ---
 
-## 🖥️ (Optional) Screenshots  
-If you choose to include screenshots, store them here:
 
