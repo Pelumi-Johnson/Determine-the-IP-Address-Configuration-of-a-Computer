@@ -1,7 +1,7 @@
 # 💻 Determine the IP Address Configuration of a Computer
 
 📄 **Full Lab Report (Google Doc):**  
-👉 [Click here to open the complete lab report](https://github.com/Pelumi-Johnson/-My-Local-Network-Home-Topology-Lab/blob/main/1.5.4%20Lab%20-%20My%20Local%20Network-1.docx%20(1).pdf)
+👉 [Click here to open the complete lab report](https://github.com/Pelumi-Johnson/Determine-the-IP-Address-Configuration-of-a-Computer/blob/main/Pelumi%20Johnson%20-%20Determine%20IP%20Address%20Configuration%20of%20a%20Computer-1.docx.pdf)
 
 ---
 
